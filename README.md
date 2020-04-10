@@ -1,8 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome to Noel's Learning Journal
 
-You can use the [editor on GitHub](https://github.com/Noelm1989/.github.io.learning-journal-/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+This journal is to chronicle my progress in Code 102 through @codefellows. First topic of discussion is *growth mindset* which is the mindset I will attempt to maintain throughout this course. 
 
 ### Markdown
 
