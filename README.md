@@ -19,7 +19,7 @@ Believing in one or more ideologies or mythologies which at their core are about
 -Procrastination: There are always tempting distractions, especially when you are stuck on a problem. Recognize these temptations and resist. 
 
 
-
+Thanks for reading. Here is a link to my [portfolio](https://github.com/Noelm1989?tab=projects) page
 
 
 
