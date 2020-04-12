@@ -13,7 +13,9 @@ The concept of growth mindset permeates the ideologies and mythologies that we l
 Believing in one or more ideologies or mythologies which at their core are about a growth mindset may give meaning to life but does not offer much guidance with regards to embracing a growth mindset in daily life. In his [blog](https://www.atlassian.com/blog/inside-atlassian/growth-mindset) Steve Haffenden talks about incorporating a growth mindset into everyday life - in particular he focuses on challenges at work. A lot of it is about staying positive and avoiding procrastination. He had three suggestions that I am going to focus on:
 
 -Challenges: When you get stuck on a problem stay calm and take a step back. When you return to the problem try think about it in new ways.
+
 -Success of Others: Don't get jealous of the success of others. Instead use their success as an inspiration. Also try to figure out how their skills are complementary to your own. 
+
 -Procratination: There are always tempting distractions, especially when you are stuck on a problem. Recognize these temptations and resist. 
 
 
