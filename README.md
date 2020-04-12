@@ -16,7 +16,7 @@ Believing in one or more ideologies or mythologies which at their core are about
 
 -Success of Others: Don't get jealous of the success of others. Instead use their success as an inspiration. Also try to figure out how their skills are complementary to your own. 
 
--Procratination: There are always tempting distractions, especially when you are stuck on a problem. Recognize these temptations and resist. 
+-Procrastination: There are always tempting distractions, especially when you are stuck on a problem. Recognize these temptations and resist. 
 
 
 
