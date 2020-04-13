@@ -1,1 +1,2 @@
 # Markdown
+Markdown is a tool or language that is used to style and format text on Github websites. It's a bit like Microsoft Word but much less automated. It's also similar to HTML/CSS in the sense that you style and format text using symbols. For example, to make text bold just use 2 asteriks. \**bold** = **bold**. Markdown gives you a lot of control over how your site looks but seems to be more simple to use than HTML/CSS.
